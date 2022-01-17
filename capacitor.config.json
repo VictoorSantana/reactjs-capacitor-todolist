@@ -1,0 +1,7 @@
+{
+  "appId": "com.todolistapp.web",
+  "appName": "Coisas a Fazer",
+  "webDir": "build",
+  "npmClient": "npm",
+  "bundledWebRuntime": false
+}
